@@ -1,0 +1,20 @@
+[
+  {
+    "codigo": 1,
+    "nome": "Torno",
+    "setor": "Produção",
+    "operacional": true
+  },
+  {
+    "codigo": 2,
+    "nome": "Furadeira",
+    "setor": "Manutenção",
+    "operacional": true
+  },
+  {
+    "codigo": 3,
+    "nome": "Prensa",
+    "setor": "Produção",
+    "operacional": false
+  }
+]
